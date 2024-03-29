@@ -1,0 +1,19 @@
+.Welcome {
+	.content {
+		.product {
+			// display: flex;
+			// justify-content: space-around;
+			// flex-wrap: wrap;
+			.product_img {
+				width: 100%;
+				max-width: 300px;
+			}
+			.vendor {
+				.vendor_img {
+					width: 100%;
+					max-width: 150px;
+				}
+			}
+		}
+	}
+}
